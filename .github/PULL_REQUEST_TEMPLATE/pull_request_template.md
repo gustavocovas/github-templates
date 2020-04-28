@@ -1,4 +1,4 @@
-Template for `enhancement` PRs
+Template for generic PRs
 
 ### Description
 Related issue:
